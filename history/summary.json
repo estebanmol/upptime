@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/estebanmolina.com.ar",
     "slug": "esteban-molina",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 209,
     "timeWeek": 292,
     "timeMonth": 216,
     "timeYear": 228,
-    "dailyMinutesDown": {
-      "2022-05-29": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
