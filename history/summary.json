@@ -4,17 +4,19 @@
     "url": "https://estebanmolina.com.ar/",
     "icon": "https://favicons.githubusercontent.com/estebanmolina.com.ar",
     "slug": "esteban-molina",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 135,
-    "timeWeek": 204,
-    "timeMonth": 208,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 216,
+    "timeDay": 203,
+    "timeWeek": 213,
+    "timeMonth": 210,
+    "timeYear": 216,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   }
 ]
