@@ -5,7 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Esteban Molina
     url: https://estebanmolina.com.ar/
-
+  - name: The Kernel Panic
+    url: https://thekernelpanic.com/
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
